@@ -15,7 +15,7 @@ Open the code folder and click on the google drive link, which should redirect y
 
 Go to your terminal and type "npm i" to install dependencies.
 
-Copy the contract code below and go to https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js to deploy the contract.
+Copy the contract code below and go to https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.18+commit.87f61d96.js. Create a new file with name and paste the code.
 
 ```Java
 // SPDX-License-Identifier: MIT
@@ -98,3 +98,5 @@ After pasting the code in Remix, go back to the terminal on your Visual Studio A
 ## Executing the Program
 
 Once you have completed the steps above, go back to remix again. 
+
+
