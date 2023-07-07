@@ -97,6 +97,27 @@ After pasting the code in Remix, go back to the terminal on your Visual Studio A
 
 ## Executing the Program
 
-Once you have completed the steps above, go back to remix again. 
+Once you have finished the steps above, go back to remix again.
+
+Head over to the left side of the Remix page, wherein you will see different icons, Select the 4th icon named "Solidity Compiler." Check the auto-compile checkbox.
+
+Next, click the 5th icon named "Deploy and run transactions." 
+
+Select Dev - Hardhat Provider as your environment.
+
+To deploy the token, head to the deploy button and select the drop-down symbol near the text field. Give the token a name and symbol before it is deployed.
+
+Click the "transact" button to deploy the contract.
+
+The contract should be deployed after clicking the transact button and found in the "Deployed Contracts" tab.
+
+Click the drop-down button of the deployed contract, and you should be able to see functions such as burn, mint, and transfer.
+
+## What the output of the deployed contract does?
+
+
+
+
+
 
 
