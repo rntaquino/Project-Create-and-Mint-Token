@@ -10,3 +10,6 @@ o	Any user can transfer tokens.
 o	Any user can burn tokens.
 
 ## Getting Started
+
+Open the code folder and click on the google drive link, which should redirect you to a zip file. Download it and open it in your visual studio code application.
+
