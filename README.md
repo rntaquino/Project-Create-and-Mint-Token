@@ -105,7 +105,7 @@ Next, click the 5th icon named "Deploy and run transactions."
 
 Select Dev - Hardhat Provider as your environment.
 
-To deploy the token, head to the deploy button and select the drop-down symbol near the text field. Give the token a name and symbol before it is deployed.
+Head to the deploy button to deploy the token and select the drop-down symbol near the text field. Give the token a name and symbol before it is deployed.
 
 Click the "transact" button to deploy the contract.
 
@@ -115,7 +115,11 @@ Click the drop-down button of the deployed contract, and you should be able to s
 
 ## What the output of the deployed contract does?
 
+o	Admin account will be the only one permitted to mint tokens. If the account is not an admin, it will throw an error.
 
+o	All users can burn and transfer tokens as long as there is sufficient balance; otherwise, it will throw an error.
+
+o	Users can also check the balance of account addresses, check the token name and symbol, and view the total supply of tokens during the transactions.
 
 
 
