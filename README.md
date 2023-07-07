@@ -93,3 +93,8 @@ contract DemoToken {
     }
 }
 ```
+After pasting the code in Remix, go back to the terminal on your Visual Studio Application and type "npx hardhat node" which will allow the contract to be deployed on a local blockchain.
+
+## Executing the Program
+
+Once you have completed the steps above, go back to remix again. 
